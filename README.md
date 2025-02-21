@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Manikandan 😇
+# Hi there! 👋 I'm Manikandan Elaiyaraja 😇
 
 ## 🚀 Innovator | AI  Explorer | FullStack Developer | Problem Solver
 
