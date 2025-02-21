@@ -16,7 +16,7 @@ Aspiring web developer with a strong foundation in HTML, CSS, and Bootstrap, com
 ## 🔥 My Status  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandanelaiyaraj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandanelaiyaraj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true) 
 
 ### 💡 LeetCode Stats  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/Manikandan113/)  
